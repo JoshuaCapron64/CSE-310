@@ -2,7 +2,7 @@
 
 This software is a basic "Hello World" program similar to what most programmers learn as their first program. It is meant as an initiatory test to ensure that I can create and publish software on my chosen machine.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Youtube link for video demo:](https://www.youtube.com/watch?v=jw6SrGkLkJU)
 
 # Development Environment
 
